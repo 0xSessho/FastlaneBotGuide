@@ -13,6 +13,7 @@
 <pre> ''' sudo apt upgrade golang ''' </pre>
 > Puedes usarlo en un servidor VPS o correrlo localmente en tu máquina mediante Ubuntu WSL.
 
+'''sudo apt upgrade'''
 
 
 
