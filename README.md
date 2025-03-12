@@ -1,4 +1,4 @@
-# FastlaneBotGuide
+# Fastlane FrontRunner Bot Guide on MONAD TESTNET
 
 # This is a quick guide to getting the frontrunner bot of Fastlane running on Monad Testnet using GO
 
