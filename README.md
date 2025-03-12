@@ -9,8 +9,8 @@
 
 3- Configuración inicial:
 
-<pre> ``` sudo apt update ``` </pre>
-<pre> ``` sudo apt upgrade golang ``` </pre>
+<pre> ''' sudo apt update ''' </pre>
+<pre> ''' sudo apt upgrade golang ''' </pre>
 
 
 
