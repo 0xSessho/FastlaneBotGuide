@@ -41,8 +41,11 @@ PRIVATE_KEY=your_monad_testnet_private_key_here
 RPC_URL=https://testnet-rpc.monad.xyz
 ```
 Replace "your_monad_testnet_private_key_here" with your wallet's private key. Attention!! I wouldn’t recommend using the private key of your wallet if it has funds in it. It's better to create a separate one for the bot. Be careful.
+
 Press CTRL + X
+
 Then Y to save
+
 Then ENTER to confirm
 
 6. Send funds to wallet:
